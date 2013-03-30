@@ -1,4 +1,12 @@
-hexa-random
-===========
+# hexa-random 
+-- It will generate uniq id based on combination of hexa decimal.
+## Install
 
-It will generate random uniq Id based on combination of hexa decimal.
+`npm install hexa-random`
+
+## Usage
+
+```javascript
+var random = require("hexa-random");
+
+random.generateUID()

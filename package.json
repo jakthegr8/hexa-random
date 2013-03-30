@@ -1,0 +1,17 @@
+{
+    "name": "hexa-random",
+    "version": "0.0.1",
+    "description": "It will generate random number based on combination of hexa decimal.",
+    "keywords": [
+        "random"
+    ],
+    "main": "hexa-random.js",
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jakthegr8/hexa-random.git"
+    },
+    "author": "Arun Kumar Jayakodi"
+}
